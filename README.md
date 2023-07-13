@@ -1,4 +1,7 @@
-### Hi there 👋
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)
+
+<h1 align="center">Hi 💕, I'm Emtinan Alharbi 👩🏻‍💻 </h1>
+<h3 align="center">A passionate Full-Satck Web Developer from Saudi Arabia </h3>
 
 <!--
 **Emtinan98/Emtinan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
