@@ -1,5 +1,5 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=36&pause=1000&color=F7BEE5&background=58FFBB00&width=435&lines=Hi%F0%9F%92%95%2C+I'm+Emtinan+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </h1>
 
